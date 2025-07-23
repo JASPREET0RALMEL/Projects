@@ -175,7 +175,7 @@ span {
     justify-content: center;
     
     /* background-color: #E694F2; */
-    background-color: #e5cfe8;
+    background-color: #d68fec;
 }
 
 #products {
@@ -191,9 +191,10 @@ span {
 }
 
 .product-box>img{
-    height: 200px;
+    height: 300px;
     width: 100%;
     object-fit: contain;
+    background-color: #d68fec;
     transition: transform 0.2s ease-in-out;
     /* border-radius: 100%; */
 }
@@ -354,4 +355,11 @@ ul a {
 .pages a {
     margin-left: 5px;
     margin-right: 5px;
+}
+
+h2{
+     text-align: center;
+     font-size: 40px;
+     font-weight: 700;
+
 }
