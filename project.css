@@ -175,7 +175,7 @@ span {
     justify-content: center;
     
     /* background-color: #E694F2; */
-    background-color: #d68fec;
+    background-color:#dddddd;
 }
 
 #products {
@@ -188,6 +188,12 @@ span {
     border: 1px solid gray;
     text-align: center;
     padding: 20px;
+     background-color: #d68fec;
+
+}
+
+.product-box>#p1{   
+      
 }
 
 .product-box>img{
